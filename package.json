@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-      "registry":"https://npm.pkg.github.com"
+      "registry":"https://github.com/dhs964057117/maven-repository"
     }
 }
